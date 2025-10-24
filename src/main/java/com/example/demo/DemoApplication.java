@@ -23,7 +23,7 @@ public class DemoApplication extends SpringBootServletInitializer implements Com
 
 	public static void main(String[] args) {
 
-		System.out.println("Gaurang Parmar");
+		System.out.println("Gaurang Parmar Application Build for Apche Tomcat with jenkins automation");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
